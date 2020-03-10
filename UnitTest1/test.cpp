@@ -5,7 +5,7 @@
 #include "../lib/list.h"
 #include "../lib/bit_number.h"
 #include "../lib/tree.h"
-
+#include "../lib/prime_number.h"
 
 namespace test
 {
